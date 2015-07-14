@@ -11,3 +11,5 @@ Troubleshooting on 14 July 2015
 2) In R Studio, I created an R script titled "LetThemEatCake" and saved it. I committed it in RStudio, and pushed it through GitApp. At this stage, there are no forks or branches.
 
 3) In GitHub, I added Thor as a collaborathor to the Bastille Day Repo.
+
+4) Thor has forked the repo.
