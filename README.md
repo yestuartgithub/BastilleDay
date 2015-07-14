@@ -13,3 +13,5 @@ Troubleshooting on 14 July 2015
 3) In GitHub, I added Thor as a collaborathor to the Bastille Day Repo.
 
 4) Thor has forked the repo.
+
+5) Change made from the clone on my laptop.
